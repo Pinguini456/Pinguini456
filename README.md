@@ -31,5 +31,5 @@ Outside of coursework, I build small tools and side projects, and I'm into 3D pr
 # Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/noah-fieten-6b8197400/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="32" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/noah-fieten-6b8197400/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/></a>
 </p>
