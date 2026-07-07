@@ -1,32 +1,35 @@
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25px">, I'm Noah
 
-### A 1st year engineering student based in Auckland, New Zealand
+### A 2nd year Software Engineering student based in Auckland, New Zealand
 
 # About Me
 
-I am a 1st year Engineering student at the University of Auckland, studying software engineering, digital systems, discrete mathematics, and engineering mathematics.
+I am a 2nd-year Software Engineering student at the University of Auckland.
 
-Outside of coursework I build small tools and side projects — a GPT-4o powered CLI assistant, an isometric cube renderer, and Unity-based procedural generation experiments — and I'm into 3D printing on a Bambu Lab H2S.
+Outside of coursework, I build small tools and side projects, and I'm into 3D printing on a Bambu Lab H2S.
 
 # Languages and Tools
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" height="40" alt="Unity"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" height="40" alt="MATLAB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="40" alt=".NET"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/>
 </p>
-
-# Featured Projects
-
-- [**cmd-ai-assistant**](https://github.com/Pinguini456/cmd-ai-assistant) — a free, lightweight, extensible command-line AI assistant powered by GPT-4o
-- [**CubeModelFromTexture**](https://github.com/Pinguini456/CubeModelFromTexture) — a desktop app that turns 2D textures into rendered isometric cube models
-- [**StructureBlockCounter**](https://github.com/Pinguini456/StructureBlockCounter) — a material list generator for Minecraft Bedrock Edition structures
-- [**irregular-spherical-tileset**](https://github.com/Pinguini456/irregular-spherical-tileset) — Voronoi sphere mesh / procedural tileset work in Unity
 
 # Connect With Me
 
 <p>
-<a href="https://github.com/Pinguini456"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="32" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/noah-fieten-6b8197400/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="32" alt="LinkedIn"/></a>
 </p>
